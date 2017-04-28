@@ -23,6 +23,7 @@
 
 
 
+
 #red-heading {
   color:red;
   margin-top: 40px;
@@ -56,4 +57,13 @@ font-size: 1.5em;
 
 #body-copy {
   width: 300px;
+}
+
+.lower-section h2{
+  font-size: 1em;
+}
+
+ul{
+  margin-left: -26px;
+  margin-top: -12px;
 }
