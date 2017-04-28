@@ -1,0 +1,30 @@
+.if-section {
+  padding-top: 30px;
+  background-color: black;
+  width: 1200px;
+  height: 1400;
+}
+
+.if-section img{
+  width: 300px;
+}
+
+.if-body-copy {
+  color: white;
+  position: relative;
+  top: -180px;
+  left: 220px;
+}
+ .lower-section {
+
+ }
+
+#website {
+margin-left: 200px;
+color: gray;
+font-size: 1.5em;
+}
+
+.lower-section h1 {
+  color: red;
+}
